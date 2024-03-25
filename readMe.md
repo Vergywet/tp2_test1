@@ -1,0 +1,1 @@
+Source code  management lifee cycle for collaborative is simply assisting i i software developement projects to work with each other
